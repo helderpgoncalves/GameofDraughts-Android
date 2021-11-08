@@ -10,3 +10,15 @@ English draughts was weakly solved in 2007 by a team of Canadian computer scient
 
 ## Results
 
+<div style={alignItems: center}>
+  
+<img src="https://github.com/helderpgoncalves/GameofDraughts-Kotlin/blob/master/app/src/main/screens_image/Main%20Menu%20Screen.png" width="150" /> 
+<img src="https://github.com/helderpgoncalves/GameofDraughts-Kotlin/blob/master/app/src/main/screens_image/Select%20Game%20Mode.png" width="150" /> 
+<img src="https://github.com/helderpgoncalves/GameofDraughts-Kotlin/blob/master/app/src/main/screens_image/Choose%20Player%20Color.png" width="150" /> 
+<img src="https://github.com/helderpgoncalves/GameofDraughts-Kotlin/blob/master/app/src/main/screens_image/Game%20Board%20Screen.png" width="150" /> 
+<img src="https://github.com/helderpgoncalves/GameofDraughts-Kotlin/blob/master/app/src/main/screens_image/Win%20Screen.png" width="150" /> 
+<img src="https://github.com/helderpgoncalves/GameofDraughts-Kotlin/blob/master/app/src/main/screens_image/Save%20Game.png" width="150" /> 
+<img src="https://github.com/helderpgoncalves/GameofDraughts-Kotlin/blob/master/app/src/main/screens_image/Quit%20Game.png" width="150" />   
+
+
+</div>
